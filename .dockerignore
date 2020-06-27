@@ -1,0 +1,12 @@
+.env*
+.DS_Store
+data
+
+.git
+node_modules
+dist
+shared
+credentials
+resources
+aws
+terraform

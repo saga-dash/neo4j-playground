@@ -1,0 +1,22 @@
+{
+  "name": "neo4j-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "neo4j-driver": "4.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "14.0.14",
+    "ts-node": "8.10.2",
+    "typescript": "3.9.5"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js",
+    "start:ts": "ts-node src/app.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true
+}

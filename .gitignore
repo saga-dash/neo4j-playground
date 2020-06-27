@@ -1,0 +1,11 @@
+.env*
+.vscode
+
+dist
+node_modules
+shared
+.terraform
+*.tfvars
+proto
+credentials
+data
